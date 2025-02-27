@@ -10,6 +10,6 @@
 4. Create => New GitHub repository & try pushing it
 
 
-5. 
+5. Login => GitHub with browser and accept. Done!
 
 
