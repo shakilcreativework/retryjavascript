@@ -35,4 +35,9 @@ cannot start with number.
 cannot contain a space or heyphen.
 
 
-7. 
+7. How can you use ternary operator?
+
+ternary structure: condition ? ... : ...;
+
+
+8. 
