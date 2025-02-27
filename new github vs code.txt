@@ -1,0 +1,15 @@
+1. Search => Windows Credentials
+
+
+2. Remove => GitHub account
+
+
+3. Open => Vs code & terminal
+
+
+4. Create => New GitHub repository & try pushing it
+
+
+5. 
+
+
