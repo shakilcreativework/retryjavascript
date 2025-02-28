@@ -40,4 +40,6 @@ cannot contain a space or heyphen.
 ternary structure: condition ? ... : ...;
 
 
-8. 
+8. What is ! meaning?
+
+! is a logical not. It is check it is false or not. It is convert false to true or true to false.
