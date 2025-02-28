@@ -43,3 +43,12 @@ ternary structure: condition ? ... : ...;
 8. What is ! meaning?
 
 ! is a logical not. It is check it is false or not. It is convert false to true or true to false.
+
+
+9. what result If use double logical not then?
+
+!false => !true
+!!false => !true => !false
+!!true => !false => !true
+
+
